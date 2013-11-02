@@ -1,0 +1,13 @@
+.container { background: #8cc; }
+
+.dataset {
+  text-align: center;
+  background: #cc8;
+  padding: 5px;
+}
+
+.train { background: #d9d; }
+.test { background: #ccc; }
+
+h1 { text-align: center; }
+textarea { white-space: nowrap; }
